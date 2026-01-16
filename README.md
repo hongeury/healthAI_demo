@@ -1,6 +1,6 @@
 # healthAI_demo
 
-1. create .env file that consists of: OPENAI_API_KEY=(put the API KEY HERE)
+1. create <.env file> that consists of: OPENAI_API_KEY=(put the API KEY HERE)
 
 2. files ends w vtt are transcripts.
 
