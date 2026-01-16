@@ -6,3 +6,5 @@
 
 3. prompt.csv = prompt
 4. output.csv = output structure
+5. code(file1 trial).py = python code
+6. G30_1_Analysis.csv = result 
